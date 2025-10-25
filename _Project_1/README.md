@@ -1,6 +1,6 @@
 # 📊 Data Jobs Dashboard using Power BI  
 
-![Dashboard Page 2](/images/Project%201%20Page%202.png)
+![Dashboard Page 1](/_Project_1/images/Page%201.png)
 
 [View Interactive dashboard here on the Power BI Service](https://app.powerbi.com/links/5ow25M8oLM?ctid=1b90b7a7-dc5c-41e2-a5b2-80a4888f404d&pbi_source=linkShare&bookmarkGuid=2cf1a54f-6186-44f5-8c94-21070d466688)-(Sign in Required)
 
@@ -62,7 +62,7 @@ It includes job titles, salary ranges, hourly rates, work-from-home options, and
 
 ---
 ### Overview – Data Jobs Dashboard (Page 1)
-![Dashboard Page 2](/images/Project%202%20Page%201.png)
+![Dashboard Page 1](/_Project_1/images/Page%201.png)
 
 This dashboard gives a clear summary of the 2024 data job market. It shows total job count, median yearly and hourly salaries, and the overall salary rating across different roles.  
 
@@ -73,7 +73,7 @@ This page provides a simple view of the overall job landscape and acts as the st
 
 
 ### Page 2: High-Level Market View
-![Dashboard Page 2](/images/Project%201%20Page%202.png)
+![Dashboard Page 2](/_Project_1/images/Page%202.png)
  
 
 ### Quick Takeaway – Business Analyst Drill-Through
@@ -102,8 +102,10 @@ I’m especially thankful to [Luke Barousse for his free YouTube course](https:/
 **Muhammad Nabeel**  
 Business Analytics student at Montclair State University passionate about transforming raw data into meaningful insights using modern analytics tools.  
 
-📫 [LinkedIn](#)
-| [GitHub](#) | [Portfolio Website](#)  
+📫 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-nabeel1)
+| [GitHub](https://github.com/MrNabeel)|
+[Portfolio Website](https://insight-navigator-939caad1.base44.app)  
+
 
 ---
 
