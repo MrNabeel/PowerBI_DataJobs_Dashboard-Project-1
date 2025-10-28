@@ -2,7 +2,7 @@
 
 ![Dashboard Page 1](/_Project_1/images/Page%201.png)
 
-[View Interactive dashboard here on the Power BI Service](https://app.powerbi.com/links/5ow25M8oLM?ctid=1b90b7a7-dc5c-41e2-a5b2-80a4888f404d&pbi_source=linkShare&bookmarkGuid=2cf1a54f-6186-44f5-8c94-21070d466688)-(Sign in Required)
+[View Interactive dashboard here on the Power BI Service](https://app.powerbi.com/links/5ow25M8oLM?ctid=1b90b7a7-dc5c-41e2-a5b2-80a4888f404d&pbi_source=linkShare&bookmarkGuid=2cf1a54f-6186-44f5-8c94-21070d466688)-(Sign in Require)
 
 A dynamic and interactive dashboard analyzing global **Data Job Market Trends** for 2024.  
 This project demonstrates key business intelligence and data visualization skills using **Power BI**, transforming raw data into actionable insights about job counts, salaries, and industry trends.  
