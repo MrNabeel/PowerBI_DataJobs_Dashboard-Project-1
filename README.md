@@ -1,6 +1,6 @@
 # 👋 Welcome to My Data Analytics Portfolio
 
-**Muhammad Nabeel | Business Analytics Student | Montclair State University**
+**Muhammad Nabeel | Business Analytics Student**
 
 Hi there! Thanks for stopping by my portfolio.  
 I’m passionate about transforming data into meaningful stories that drive smarter decisions.  
@@ -17,7 +17,7 @@ An interactive two-part Power BI dashboard analyzing **2024 global data job tren
 The dashboard provides insights into **job availability, salary trends, and regional market shifts**, offering a visual story of how data careers are evolving.
 
 > 🖥️ **View Interactive Dashboard:** *(Sign-in required on Power BI Service)*  
-> 🔗 [Visit Dashboard on *Power BI Service*](#)  
+> 🔗 [Visit Dashboard on *Power BI Service *](#)  
 > 🔗 [View Full Porject 1 Details](/_Project_1/README.md)
 
 ---
@@ -81,3 +81,42 @@ Building this project taught me how to:
 
 This project helped solidify my understanding of **data storytelling**, and motivated me to explore **AI-driven analytics** — bridging business insights with automation tools like **n8n**.
 
+---
+
+
+---
+
+## 📗 Part 2 – Salary by Skills & Country Dashboard
+
+**Focus:**  
+Building on the first dashboard, this report dives deeper into how **technical skills**, **job titles**, and **countries** influence salary outcomes across the global data job market.
+
+**Key Highlights:**
+- 🧮 Salary comparison by **skill, country, and job role**  
+- 🌍 Map visuals showing **top-paying regions** for data professionals  
+- 📊 Created a custom **Skill-to-Salary Index** using DAX  
+- 🎯 Added slicers for skill filtering (SQL, Python, Power BI, Tableau, etc.)  
+- ⚙️ Used **Power Query** for ETL and transformation to clean and merge multiple data sources  
+- 🧭 Dynamic titles, conditional formatting, and tooltip storytelling for clarity  
+- 💡 Key takeaway: *Data professionals proficient in 3+ core tools earn roughly 25% higher median salaries globally.*
+
+📄 **[Read Full Project 2 Details →](./_Project_2/README.MD)**  
+
+> This second dashboard moves beyond market overview — focusing instead on **how the right skills can shape better opportunities** in data analytics, engineering, and science.
+
+---
+![Dashboard](/_Project_1/images/Project%202%20second%20pic.png)
+
+### 🧾 View Dashboard 1  
+If you haven’t seen the first dashboard in this series, check it out below for the foundation of this analysis:  
+[Dashboard 1 →](/_Project_1/README.md)
+> 🔗 [View Full Porject 2 Details - Require Sign in](https://app.powerbi.com/links/vIE4sP1LGk?ctid=1b90b7a7-dc5c-41e2-a5b2-80a4888f404d&pbi_source=linkShare&bookmarkGuid=1311d020-ef3b-4695-8474-6411ef4b1a4e)
+
+--- ---
+
+## 🧩 About This Portfolio  
+
+Each dashboard linked above has its own detailed **README.md** file within its respective project folder.  
+These provide deeper insights into the project objectives, data sources, Power BI techniques employed, and a closer look at how each dashboard was designed and developed.  
+
+---
