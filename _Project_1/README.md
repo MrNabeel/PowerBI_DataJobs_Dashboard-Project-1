@@ -109,4 +109,10 @@ Business Analytics student at Montclair State University passionate about transf
 
 ---
 
-⭐ *If you like this project, consider giving it a star on GitHub!*  
+⭐ *If you like this project, consider giving it a star on GitHub!* 
+
+--- 
+
+
+## Regards
+Muhammad Nabeel
